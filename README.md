@@ -34,3 +34,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Contact
 For any inquiries, reach out to [your-email@example.com](mailto:your-email@example.com).
 
+## Acknowledgments
+Thank you for your interest in this project! Your support and contributions are greatly appreciated.
+First commit
